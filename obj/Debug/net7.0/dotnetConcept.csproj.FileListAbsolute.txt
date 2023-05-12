@@ -1,0 +1,15 @@
+D:\dotnetConcept\bin\Debug\net7.0\dotnetConcept.exe
+D:\dotnetConcept\bin\Debug\net7.0\dotnetConcept.deps.json
+D:\dotnetConcept\bin\Debug\net7.0\dotnetConcept.runtimeconfig.json
+D:\dotnetConcept\bin\Debug\net7.0\dotnetConcept.dll
+D:\dotnetConcept\bin\Debug\net7.0\dotnetConcept.pdb
+D:\dotnetConcept\obj\Debug\net7.0\dotnetConcept.csproj.AssemblyReference.cache
+D:\dotnetConcept\obj\Debug\net7.0\dotnetConcept.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetConcept\obj\Debug\net7.0\dotnetConcept.AssemblyInfoInputs.cache
+D:\dotnetConcept\obj\Debug\net7.0\dotnetConcept.AssemblyInfo.cs
+D:\dotnetConcept\obj\Debug\net7.0\dotnetConcept.csproj.CoreCompileInputs.cache
+D:\dotnetConcept\obj\Debug\net7.0\dotnetConcept.dll
+D:\dotnetConcept\obj\Debug\net7.0\refint\dotnetConcept.dll
+D:\dotnetConcept\obj\Debug\net7.0\dotnetConcept.pdb
+D:\dotnetConcept\obj\Debug\net7.0\dotnetConcept.genruntimeconfig.cache
+D:\dotnetConcept\obj\Debug\net7.0\ref\dotnetConcept.dll
